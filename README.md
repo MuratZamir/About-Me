@@ -8,7 +8,7 @@ I've been learning various aspects of cybersecurity for 2 years. I'm highly moti
 
 * 🌍  I'm based in Indiana/U.S.
 * ✉️  You can contact me at [zamir.murat54@gmail.com](mailto:zamir.murat54@gmail.com)
-* 🧠  I'm learning penetration testing
+* 🧠  I'm currently working as a network engineer at Purdue University
 * ⚡  Learning physical pentesting by picking locks :)
 
 ### Skills
