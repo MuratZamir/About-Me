@@ -4,7 +4,7 @@ Hi There! 👋
 Cybersecurity Enthusiast
 ----------------------------
 
-I've been learning various aspects of cybersecurity for 2 years. I'm highly motivated and passionate about security in general. I constantly enhance my skillset in penetration testing, web application security and network security.
+I've been learning various aspects of cybersecurity for 3 years. I'm highly motivated and passionate about security in general. I constantly enhance my skillset in penetration testing, web application security and network security.
 
 * 🌍  I'm based in Indiana/U.S.
 * ✉️  You can contact me at [zamir.murat54@gmail.com](mailto:zamir.murat54@gmail.com)
