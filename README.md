@@ -6,9 +6,8 @@ Cybersecurity Enthusiast
 
 I've been learning various aspects of cybersecurity for 3 years. I'm highly motivated and passionate about security in general. I constantly enhance my skillset in penetration testing, web application security and network security.
 
-* 🌍  I'm based in Indiana/U.S.
+* 🌍  I'm based in San Francisco, CA.
 * ✉️  You can contact me at [zamir.murat54@gmail.com](mailto:zamir.murat54@gmail.com)
-* 🧠  I'm currently looking for a full time entry-level jobs!
 * ⚡  Learning physical pentesting by picking locks :)
 
 ### Skills
